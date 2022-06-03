@@ -1,8 +1,8 @@
 ### Hi there, I'm Diana👋
 
-#I'm a 25 years old.
-#I'm a teacher in BYJU'S Future School and a junior student at Hackademy. 
-#I'm a passionate teacher
+I'm a 25 years old.
+I'm a teacher in BYJU'S Future School and a junior student at Hackademy. 
+I'm a passionate teacher
 
 <!--
 **dianalatte1/dianalatte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
