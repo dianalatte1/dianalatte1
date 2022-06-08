@@ -3,7 +3,8 @@
 
 I'm a 25 years old.
 I'm a teacher in BYJU'S Future School and a junior student at Hackademy. 
-I'm a passionate teacher
+I'm a passionate teacher 👩‍🏫  by choice since 21.
+Future Software Engineer in progress. 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
