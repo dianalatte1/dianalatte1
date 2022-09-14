@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 I'm a 25 years old.
-I'm a teacher in BYJU'S Future School and a junior student at Hackademy. 
+I'm a Software Engineer in Nowports. 
 I'm a passionate teacher 👩‍🏫  by choice since 21.
-Future Software Engineer in progress. 🚀
+Software Engineer in progress. 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
