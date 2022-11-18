@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-I'm a 25 years old.
+I'm a 26 years old.
 I'm a Software Engineer in Nowports. 
 I'm a passionate teacher 👩‍🏫  by choice since 21.
 Software Engineer in progress. 🚀
