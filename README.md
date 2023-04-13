@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 I'm a 26 years old.
-I'm a Software Engineer in Nowports. 
+I'm a Software Engineer looking for amazing projects. 
 I'm a passionate teacher 👩‍🏫  by choice since 21.
-Software Engineer in progress. 🚀
+Software Engineer in progress at UVM. 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
