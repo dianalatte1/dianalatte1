@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate software developer from Mexico</h3>
 
-I'm a 26 years old.
+I'm a 27 years old.
 I'm a Software Engineer looking for amazing projects. 
 I'm a passionate teacher 👩‍🏫  by choice since 21.
-Software Engineer in progress at UVM. 🚀
+Software Engineer in progress at UVM and current backend engineer at Mercado Libre. 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
