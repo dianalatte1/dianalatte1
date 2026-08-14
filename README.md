@@ -4,7 +4,7 @@
 I'm a 29 years old.
 I'm a Software Engineer looking for amazing projects. 
 I'm a passionate teacher 👩‍🏫  by choice since 21.
-Software Engineer in progress at UVM and current backend engineer at Mercado Libre. 🚀
+Software Engineer in progress. 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
